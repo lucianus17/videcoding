@@ -691,7 +691,7 @@ def show_loading():
     st.markdown("""
 <div style="text-align:center">
   <div style="font-size:3.5rem;margin-bottom:1.2rem">🔍</div>
-  <h2>당신의 축구 취향를 분석하는 중...</h2>
+  <h2>당신의 축구 취향을 분석하는 중...</h2>
   <p style="color:#64748B">20개의 답변을 바탕으로 8개 팀과 비교하고 있어요</p>
 </div>
 """, unsafe_allow_html=True)
